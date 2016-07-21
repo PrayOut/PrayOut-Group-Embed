@@ -1,6 +1,14 @@
-/***********************************************************************
-************ JAVASCRIPT TO GET AT THE PHONEGAP API's *******************
-************************************************************************/
+/**
+ * @summary	Accesses native device features on behalf of PrayOut.com running in an iFrame on your website.
+ * 
+ * @since 	1.0.0
+ * @requires	jquery.js
+ * @license	Private
+ * 
+ * PrayOut Group Embed is covered under ... {license block language here}
+ * 
+ * This license may be found at http://www.mobiletappestry.com/licenses.
+ */
 
 if ( typeof jq == "undefined" )
 	var jq = jQuery;
